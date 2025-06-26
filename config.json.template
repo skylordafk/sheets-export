@@ -1,0 +1,20 @@
+{
+  "output_directory": "./exports",
+  "file_naming": {
+    "include_sheet_name": true,
+    "include_timestamp": false,
+    "custom_prefix": "",
+    "custom_suffix": ""
+  },
+  "export_options": {
+    "include_headers": true,
+    "export_all_worksheets": true,
+    "worksheet_separator": "_",
+    "date_format": "%Y%m%d_%H%M%S"
+  },
+  "display_options": {
+    "show_progress": true,
+    "list_limit": 50,
+    "confirm_before_export": true
+  }
+}
