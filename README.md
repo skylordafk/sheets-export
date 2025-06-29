@@ -257,4 +257,4 @@ Feel free to submit issues, feature requests, or pull requests to improve this t
 
 ## License
 
-This project is provided as-is for personal and educational use.
+This project is provided as-is for personal and educational use. 
